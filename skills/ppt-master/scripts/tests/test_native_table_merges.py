@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""PPT Master - Native Merged Table Regression Tests
+"""HugoPPTPilot - Native Merged Table Regression Tests
 
 Exercise covered-cell formatting and authority-aware errors through the public
 SVG converter and export CLI using small inline fixtures.

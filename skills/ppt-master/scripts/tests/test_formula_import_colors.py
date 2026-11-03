@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-PPT Master - Native Formula Import Color Regression Tests
+HugoPPTPilot - Native Formula Import Color Regression Tests
 
 Exercise formula color normalization through the public import and SVG
 converters, including native re-export and opaque text-body retention.
@@ -12,7 +12,7 @@ Examples:
     Run the module from the scripts directory.
 
 Dependencies:
-    Standard library and the local PPT Master converters.
+    Standard library and the local HugoPPTPilot converters.
 """
 
 from __future__ import annotations

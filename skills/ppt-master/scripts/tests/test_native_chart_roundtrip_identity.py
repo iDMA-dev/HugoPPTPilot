@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-PPT Master - Native Chart Round-trip Identity Regression Tests
+HugoPPTPilot - Native Chart Round-trip Identity Regression Tests
 
 Keep imported chart identities on the graphicFrame while companion shapes
 remain siblings with fresh ids through the public SVG converter.

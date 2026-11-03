@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-PPT Master - Geometry Import Loss Regressions
+HugoPPTPilot - Geometry Import Loss Regressions
 
 Keep evaluated zero-axis paths and report geometry that cannot be recovered.
 
@@ -11,7 +11,7 @@ Examples:
     Run the module from the scripts directory.
 
 Dependencies:
-    Standard library and the local PPT Master importer.
+    Standard library and the local HugoPPTPilot importer.
 """
 
 from __future__ import annotations

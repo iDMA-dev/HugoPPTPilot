@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-PPT Master - Native Chart Part Allocation Regression Tests
+HugoPPTPilot - Native Chart Part Allocation Regression Tests
 
 Exercise source preservation, chart-family allocation and collision errors
 through the public SVG converter, with fixtures constructed in this module.

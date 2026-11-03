@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""PPT Master - Round-trip Morph Passthrough Regression Tests
+"""HugoPPTPilot - Round-trip Morph Passthrough Regression Tests
 
 Exercise explicit pairing through the public exporter with preserved endpoints.
 

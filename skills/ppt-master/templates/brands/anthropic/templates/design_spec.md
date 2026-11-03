@@ -38,7 +38,7 @@ The first two rows are literal Claude asset facts. Background and neutral rows a
 | title | `Arial, "Microsoft YaHei", sans-serif` | 600–700 |
 | body | `Arial, "Microsoft YaHei", sans-serif` | 400 |
 
-> `Styrene A` and `Anthropic Sans` are references. PPT Master neither auto-embeds fonts nor follows CSS tails in PowerPoint. The rows above are the default Windows/Office export; replace them only with a user-confirmed target-installed face.
+> `Styrene A` and `Anthropic Sans` are references. HugoPPTPilot neither auto-embeds fonts nor follows CSS tails in PowerPoint. The rows above are the default Windows/Office export; replace them only with a user-confirmed target-installed face.
 
 ## IV. Logo
 

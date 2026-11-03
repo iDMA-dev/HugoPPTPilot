@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""PPT Master - Round-trip Text Body Translation Regression Tests
+"""HugoPPTPilot - Round-trip Text Body Translation Regression Tests
 
 Exercise native text retention through import, materialization, and conversion.
 

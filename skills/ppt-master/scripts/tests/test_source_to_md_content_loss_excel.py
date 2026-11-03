@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""PPT Master - Spreadsheet content preservation regressions.
+"""HugoPPTPilot - Spreadsheet content preservation regressions.
 
 Usage: python3 -m unittest tests.test_source_to_md_content_loss_excel
 Dependencies: openpyxl

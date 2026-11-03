@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""PPT Master - Local Server Security Tests
+"""HugoPPTPilot - Local Server Security Tests
 
 Exercise both Flask request guards without creating project files or servers.
 

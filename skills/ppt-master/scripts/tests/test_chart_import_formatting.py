@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""PPT Master - Chart Import Formatting Regression Tests
+"""HugoPPTPilot - Chart Import Formatting Regression Tests
 
 Exercise chart data edits and owning text frames with small native fixtures.
 

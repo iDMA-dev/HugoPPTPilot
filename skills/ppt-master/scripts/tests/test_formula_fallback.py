@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-PPT Master - Native Formula MCE Fallback Regression Tests
+HugoPPTPilot - Native Formula MCE Fallback Regression Tests
 
 Check that block and inline formulas carry their SVG preview as native shapes
 in mc:Fallback while PowerPoint keeps reading the editable a14 Choice.

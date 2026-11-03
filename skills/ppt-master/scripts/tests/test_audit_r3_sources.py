@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""PPT Master - Third-Round Source Regression Tests
+"""HugoPPTPilot - Third-Round Source Regression Tests
 
 Exercise HTTP boundaries, archived source imports, and DOCX conversion offline.
 

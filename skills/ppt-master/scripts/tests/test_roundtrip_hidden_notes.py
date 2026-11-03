@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""PPT Master - Hidden Speaker Notes Regression Tests
+"""HugoPPTPilot - Hidden Speaker Notes Regression Tests
 
 Keep author-hidden source notes out of editable Markdown and note overlays.
 

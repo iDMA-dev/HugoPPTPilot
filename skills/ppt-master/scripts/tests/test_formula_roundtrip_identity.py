@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-PPT Master - Formula Round-trip Identity Regression Tests
+HugoPPTPilot - Formula Round-trip Identity Regression Tests
 
 Keep imported formula identities on the editable Choice while preview Fallback
 shapes allocate fresh ids through the public SVG converter.

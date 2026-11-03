@@ -12,14 +12,14 @@ metadata:
   version: "6.8.0"
   copyright: "Copyright (c) 2025-2026 Hugo He"
   license: "MIT"
-  official_repository: "https://github.com/iDMA-dev/HugoPPTPilot"
+  official_repository: "https://github.com/hugohe3/ppt-master"
   sponsors:
     - "SPONSORS.md"
 ---
 
-# PPT Master Skill
+# HugoPPTPilot Skill
 
-PPT Master is a routed presentation workflow. This entry owns global execution discipline and route selection only; each selected route owns its procedure.
+HugoPPTPilot is a routed presentation workflow. This entry owns global execution discipline and route selection only; each selected route owns its procedure.
 
 ## Mandatory Load Order
 

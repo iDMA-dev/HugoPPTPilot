@@ -38,7 +38,7 @@ Every row is `approx`, and the compiled sources say so themselves — the firm d
 | title | `Arial, "Microsoft YaHei", sans-serif` | 600–700 |
 | body | `Arial, "Microsoft YaHei", sans-serif` | 400 |
 
-> The firm uses proprietary licensed typefaces that this preset neither bundles nor names as a claim. PPT Master does not auto-embed fonts or follow CSS tails in PowerPoint. The rows above are the default Windows/Office export; replace them only with a user-confirmed target-installed face.
+> The firm uses proprietary licensed typefaces that this preset neither bundles nor names as a claim. HugoPPTPilot does not auto-embed fonts or follow CSS tails in PowerPoint. The rows above are the default Windows/Office export; replace them only with a user-confirmed target-installed face.
 
 ## IV. Logo
 

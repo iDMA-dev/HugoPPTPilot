@@ -38,7 +38,7 @@ The primary is `fact` — it is the value published in the company's own usage g
 | title | `Arial, "Microsoft YaHei", sans-serif` | 600–700 |
 | body | `Arial, "Microsoft YaHei", sans-serif` | 400 |
 
-> The company uses a proprietary licensed typeface that this preset neither bundles nor names as a claim. PPT Master does not auto-embed fonts or follow CSS tails in PowerPoint. The rows above are the default Windows/Office export; replace them only with a user-confirmed target-installed face.
+> The company uses a proprietary licensed typeface that this preset neither bundles nor names as a claim. HugoPPTPilot does not auto-embed fonts or follow CSS tails in PowerPoint. The rows above are the default Windows/Office export; replace them only with a user-confirmed target-installed face.
 
 ## IV. Logo
 

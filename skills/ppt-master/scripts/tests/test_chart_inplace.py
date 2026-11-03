@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-PPT Master - Imported Chart In-place Data Regression Tests
+HugoPPTPilot - Imported Chart In-place Data Regression Tests
 
 Exercise public import, checker and round-trip export on synthetic native charts
 with source-only formatting and embedded workbook data.

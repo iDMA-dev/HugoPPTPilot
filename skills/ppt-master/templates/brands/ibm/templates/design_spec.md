@@ -38,7 +38,7 @@ The primary is `fact` — it is the published token in the company's own open de
 | title | `Arial, "Microsoft YaHei", sans-serif` | 600–700 |
 | body | `Arial, "Microsoft YaHei", sans-serif` | 400 |
 
-> The company maintains its own open typeface family, which this preset neither bundles nor assumes is installed. PPT Master does not auto-embed fonts or follow CSS tails in PowerPoint. The rows above are the default Windows/Office export; replace them only with a user-confirmed target-installed face.
+> The company maintains its own open typeface family, which this preset neither bundles nor assumes is installed. HugoPPTPilot does not auto-embed fonts or follow CSS tails in PowerPoint. The rows above are the default Windows/Office export; replace them only with a user-confirmed target-installed face.
 
 ## IV. Logo
 
