@@ -33,7 +33,7 @@ _SKILL_DIR = Path(__file__).resolve().parent.parent
 _EXACT_METADATA_VALUES = {
     "copyright": '"Copyright (c) 2025-2026 Hugo He"',
     "license": '"MIT"',
-    "official_repository": '"https://github.com/hugohe3/ppt-master"',
+    "official_repository": '"https://github.com/iDMA-dev/HugoPPTPilot"',
 }
 _REQUIRED_METADATA_FIELDS = ("sponsors",)
 _REQUIRED_ATTRIBUTION_FILES = ("LICENSE", "SPONSORS.md")

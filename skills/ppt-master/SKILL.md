@@ -12,7 +12,7 @@ metadata:
   version: "6.8.0"
   copyright: "Copyright (c) 2025-2026 Hugo He"
   license: "MIT"
-  official_repository: "https://github.com/hugohe3/ppt-master"
+  official_repository: "https://github.com/iDMA-dev/HugoPPTPilot"
   sponsors:
     - "SPONSORS.md"
 ---

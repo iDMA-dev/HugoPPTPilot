@@ -15,7 +15,7 @@ from workflow_transcript import install_auto_transcript
 
 _SKILL_DIR = Path(__file__).resolve().parent.parent
 _SECONDARY_METADATA_FIELDS = ("copyright", "license", "official_repository")
-_SECONDARY_METADATA_DIGEST = "efb48651eb07614e564d54ab28623b8561ad57c8300c123a6893cd1fada56337"
+_SECONDARY_METADATA_DIGEST = "fc6fa423dd6c61a979b0425df3d57bf4296ee61906bf3b82ea1baad29cb12b4a"
 _SECONDARY_LICENSE_DIGEST = "80cefc234c1ec12a8cece4344f16300c634fa03df7891686fcf979e3828f0921"
 
 
